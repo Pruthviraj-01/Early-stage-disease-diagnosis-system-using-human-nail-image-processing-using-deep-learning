@@ -1,0 +1,29 @@
+# Ignore everything inside Data folder
+# Data/*       <-- comment केले, dataset push करता येईल
+
+# But allow these two files
+!Data/app.py
+!Data/train_model.py
+
+# Ignore all CSV files
+*.csv
+
+# But allow this specific CSV file to be pushed
+!Data/nail_diseases_dataset.csv
+
+# Ignore virtual environment
+venv/
+
+# Trained models - Uncomment to track Models folder and .h5 files
+# Models/
+# *.h5
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore uploads
+static/uploads/
+
+# Ignore pdf files
+*.pdf
