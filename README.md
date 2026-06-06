@@ -113,19 +113,23 @@ Cloud Deployment: Moving the system to a live online environment.
 
 ## Home page 
 
-<img width="401" height="187" alt="image" src="https://github.com/user-attachments/assets/fad6ddbc-01c0-4735-a695-ab95221b014f" />
+<img width="751" height="352" alt="image" src="https://github.com/user-attachments/assets/ea231c08-4858-481c-ba28-f5fcce1a67b9" />
+
 
 ## About Page 
 
-<img width="403" height="185" alt="image" src="https://github.com/user-attachments/assets/86c38b88-cdf6-4a0c-b3cf-7fadbc52ffeb" />
+<img width="754" height="349" alt="image" src="https://github.com/user-attachments/assets/5bc95e01-d935-4303-b92d-c3447fad9fd8" />
+
 
 ## Nails Predection Page
 
-<img width="403" height="185" alt="image" src="https://github.com/user-attachments/assets/24880fb3-1f14-433f-9b0d-1794d709cff8" />
+<img width="755" height="347" alt="image" src="https://github.com/user-attachments/assets/435438d6-d43a-468a-bbc4-1639a49b7351" />
+
 
 # Final Output Page 
 
-<img width="404" height="185" alt="image" src="https://github.com/user-attachments/assets/06ed3f8a-b919-48c1-a157-4ec5af8e1322" />
+<img width="759" height="353" alt="image" src="https://github.com/user-attachments/assets/8391b77b-a066-4917-b830-3ab0f8d74ff1" />
+
 
 
 # Conclusion 
