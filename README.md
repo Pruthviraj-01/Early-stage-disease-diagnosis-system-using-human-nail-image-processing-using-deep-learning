@@ -130,8 +130,6 @@ Cloud Deployment: Moving the system to a live online environment.
 
 <img width="759" height="353" alt="image" src="https://github.com/user-attachments/assets/8391b77b-a066-4917-b830-3ab0f8d74ff1" />
 
-
-
 # Conclusion 
 
 This project successfully demonstrates how deep learning and image processing can be used to 
@@ -140,6 +138,7 @@ system provides an easy-to-use platform for users to upload nail images and get 
 along with confidence percentage and basic guidance. This project can be further enhanced and 
 used as a supportive tool in healthcare. 
 
-# Demo Video- https://drive.google.com/file/d/1_pz3kXflqIHQlG2YV9cI0r4TOKwA3fPf/view?usp=sharing 
+# Demo video-
+https://drive.google.com/file/d/1_pz3kXflqIHQlG2YV9cI0r4TOKwA3fPf/view?usp=sharing 
 
 Cloud Deployment: Moving the system to a live online environment.
