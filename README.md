@@ -140,7 +140,7 @@ system provides an easy-to-use platform for users to upload nail images and get 
 along with confidence percentage and basic guidance. This project can be further enhanced and 
 used as a supportive tool in healthcare. 
 
-# Demo Video - https://drive.google.com/file/d/1_pz3kXflqIHQlG2YV9cI0r4TOKwA3fPf/view?usp=sharing
+# Demo Video - https://drive.google.com/file/d/1_pz3kXflqIHQlG2YV9cI0r4TOKwA3fPf/view?usp=sharing 
 
 
 Cloud Deployment: Moving the system to a live online environment.
