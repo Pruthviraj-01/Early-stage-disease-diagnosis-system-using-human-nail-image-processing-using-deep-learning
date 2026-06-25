@@ -130,6 +130,9 @@ Cloud Deployment: Moving the system to a live online environment.
 
 <img width="759" height="353" alt="image" src="https://github.com/user-attachments/assets/8391b77b-a066-4917-b830-3ab0f8d74ff1" />
 
+# Demo Video -
+https://drive.google.com/file/d/1_pz3kXflqIHQlG2YV9cI0r4TOKwA3fPf/view?usp=sharing
+
 # Conclusion 
 
 This project successfully demonstrates how deep learning and image processing can be used to 
@@ -137,8 +140,6 @@ detect nail diseases from images. By using a CNN model and a Flask-based web app
 system provides an easy-to-use platform for users to upload nail images and get instant predictions 
 along with confidence percentage and basic guidance. This project can be further enhanced and 
 used as a supportive tool in healthcare. 
-
-# Demo video-
-https://drive.google.com/file/d/1_pz3kXflqIHQlG2YV9cI0r4TOKwA3fPf/view?usp=sharing 
+ 
 
 Cloud Deployment: Moving the system to a live online environment.
